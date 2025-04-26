@@ -8,6 +8,17 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 
 
 
+
+
+Core Competencies
+
+Data Analysis: Analyze complex datasets (within any industry) to identify trends and patterns.
+
+Machine Learning: Apply machine learning techniques using Python and relevant libraries.
+
+Data Visualization: Create insightful visualizations using Tableau and Power BI.
+
+SQL & Database Management: Query and manage data across various database systems with SQL.
 <!---
 ikechukwueluwa456/ikechukwueluwa456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
